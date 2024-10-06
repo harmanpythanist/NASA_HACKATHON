@@ -1,0 +1,5 @@
+OPEN COMMAND PROMPT
+
+type: python -m streamlit run web_dev.py
+
+Website will open on chrome.
