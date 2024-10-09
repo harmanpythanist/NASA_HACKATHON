@@ -22,7 +22,9 @@ how logistic regression works: https://scikit-learn.org/1.5/modules/generated/sk
 
 
 Within 2 days, we team of 6 developed this project by whole
-**Group Members:**
+
+- **Group Members:**
+
 
 ![group_members](https://github.com/user-attachments/assets/b55f237f-aef3-4e21-a8a4-add642e197d4)
 
@@ -31,7 +33,9 @@ Within 2 days, we team of 6 developed this project by whole
 
 
 From various emerging topics related to space and sun, we finally came to select our project as
-**Project title**
+
+- **Project title**
+  
 
 ![our_connected_earth](https://github.com/user-attachments/assets/25ce0324-0731-4a7f-a860-284d2a0c5ac5)
 
