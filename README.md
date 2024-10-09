@@ -14,4 +14,7 @@ how random forest works: https://scikit-learn.org/dev/modules/generated/sklearn.
 how logistic regression works: https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LogisticRegression.html
 
 
+![pic](https://github.com/user-attachments/assets/43496441-7419-4f56-b04e-313dcc765b05)
+
+
 
