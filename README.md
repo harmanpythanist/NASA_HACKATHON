@@ -10,6 +10,7 @@ With the usage of three columns from real life dataset:
 
 We implemented **Random Forest** and **Logistic Regression** machine learning algorithms, both with accuracies of more than 90%. (to be more specific, we got 92 correct predictions out of 100) 
 
+---
 
 ![analysis](https://github.com/user-attachments/assets/d0d1e1d3-74c6-4070-b4ca-f1882b0d09a3)
 
@@ -31,7 +32,7 @@ Within 2 days, we team of 6 developed this project by whole
 
 
 
-
+---
 
 From various emerging topics related to space and sun, we finally came to select our project as
 
