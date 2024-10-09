@@ -1,5 +1,5 @@
 OPEN COMMAND PROMPT
 
-type: python -m streamlit run web_dev.py
+type: python -m streamlit run ml_algorithm_implementation_website.py
 
 Website will open on chrome.
